@@ -1,0 +1,1 @@
+The first website version uses CSS-based visual artwork and live NASA Image and Video Library thumbnails. No separate image assets are required.
